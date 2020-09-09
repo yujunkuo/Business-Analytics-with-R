@@ -1,0 +1,16 @@
+user_id,user_name,gender,age,location,payment
+U0001,Jacky Wu,male,24,Taipei,1
+U0002,Alex Chu,male,25,Taipei,0
+U0003,Apple Lee,female,37,Hsinchu,0
+U0004,Tom Gu,male,29,Taipei,0
+U0005,Lisa Yen,female,18,Taipei,1
+U0006,Ruby Yeh,female,42,Tainan,1
+U0007,Cathy Guo,female,19,Kaohsiung,0
+U0008,Jay Chou,male,29,Taipei,0
+U0009,Andy Liu,male,26,Taipei,0
+U0010,Jolin Tsai,female,25,Yunlin,0
+U0011,Eric Chou,male,28,Taipei,0
+U0012,Cindy Kao,female,33,Kaohsiung,1
+U0013,Karen Mok,female,36,Taipei,1
+U0014,Nana Lee,female,45,Taipei,1
+U0015,Sandy Wu,male,37,Hsinchu,0
